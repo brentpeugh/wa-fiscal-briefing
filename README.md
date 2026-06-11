@@ -111,5 +111,3 @@ financial-intelligence platform). The philosophy ports; the register translates:
 ## AI collaboration
 
 The build process — including every moment the AI was redirected and why — is documented in `NOTES.md`, and the mandatory video covers the most consequential redirection in detail.
-#   w a - f i s c a l - b r i e f i n g  
- 
